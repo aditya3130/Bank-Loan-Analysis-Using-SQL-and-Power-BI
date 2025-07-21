@@ -1,4 +1,5 @@
 Bank Loan Analysis using SQL & Power BI
+
 📌 Project Description
 This project aims to analyze bank loan data to uncover key insights related to loan applications, funding patterns, repayment behavior, and borrower risk profiles. By leveraging SQL for querying and Power BI for visualization, this project delivers a comprehensive view of loan performance and customer segmentation to support data-driven decisions.
 
